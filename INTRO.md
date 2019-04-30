@@ -2,6 +2,8 @@ BeatzCoin is the driving force behind the technologically advanced VibraVid Plat
 
 Website: https://www.beatzcoin.io
 
+Artist Accelerator: https://www.beatzcoin.io/artists
+
 Whitepaper: https://www.beatzcoin.io/downloads/Whitepaper.pdf
 
 Twitter: https://twitter.com/BeatzCoin
