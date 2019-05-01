@@ -1,18 +1,22 @@
+
 # **Founder/CEO - Steven Zambron**
 
 Responsible for makeing all major corporate decisions, manages the overall operations and resorces of VibraVid Inc. and BeatzCoin. 
 
-## COO - Dallas Tatlow
+## Chief Operations Officer - Dallas Tatlow
 
-Oversees day-to-day operations within VibraVid Inc. and BeatzCoin; ensures all operational and financial procedures are in place. Reports directly to CEO. 
+Oversees day-to-day operations within VibraVid Inc. and BeatzCoin; ensures all operational and financial procedures are in place. Reports directly to CEO.
+- [x] Oversees partnerships and aquisitions.
+- [x] Senior advisor to the CEO
 
-## CMO - Mike Patraw
+## Chief Marketing Officer - Mike Patraw
 
 Plans, develops, implements and monitors the marketing strategy. Responsible for conducting and deligating market research, pricing, and advertizing. Responsible for all matters of public relations. 
 - [x] Write Press Releases
 - [x] Manages Company Instagram
 - [x] Oversees All Social Media Accounts
 - [x] Manages and Maintains Multi Media Content
+- [x] Researches and seaks out strategic partnerships in cross marketing. 
 
 ## Technology Director - Neil Gordon
 
@@ -33,6 +37,7 @@ Experienced in building websites and maintaining the servers for VibraVid Inc. a
 
 Responsible for the strategic formalization of artist relations while developing and enhancing existing relationships. 
 - [x] Acts as the main contact/liaison between VibraVid Inc. and artists in their respective industries.
+- [x] Works with relative enterprises to further fortify the VibraVid brand and presence. 
 
 ## Project Manager - Steve Lourenco
 
