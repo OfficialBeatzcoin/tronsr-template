@@ -1,7 +1,7 @@
 
 # **Founder/CEO - Steven Zambron**
 
-Responsible for makeing all major corporate decisions, manages the overall operations and resorces of VibraVid Inc. and BeatzCoin. 
+Responsible for making all major corporate decisions, manages the overall operations and resorces of VibraVid Inc. and BeatzCoin. 
 
 ## Chief Operations Officer - Dallas Tatlow
 
@@ -9,9 +9,9 @@ Oversees day-to-day operations within VibraVid Inc. and BeatzCoin; ensures all o
 - [x] Oversees partnerships and aquisitions.
 - [x] Senior advisor to the CEO
 
-## Chief Marketing Officer - Mike Patraw
+## Chief Communications Officer - Misha Lederman
 
-Plans, develops, implements and monitors the marketing strategy. Responsible for conducting and deligating market research, pricing, and advertizing. Responsible for all matters of public relations. 
+Plans, develops, implements and monitors the marketing and communications strategy. Responsible for conducting and deligating market research, pricing, and advertizing. Responsible for all matters of public relations. 
 - [x] Write Press Releases
 - [x] Manages Company Instagram
 - [x] Oversees All Social Media Accounts
@@ -22,7 +22,7 @@ Plans, develops, implements and monitors the marketing strategy. Responsible for
 
 Plans, organizes and executes all information technology functions within VibraVid Inc. and BeatzCoin. Develops new technical solutions and conducts maintenance of existing applications to meet customer requirements. 
 
-## Human Resources Manager - Manmeet Sangherra
+## Human Resources Manager - Mike Patraw
 
 Preparing or updating employment records related to hiring, transferring, promoting, and terminating. Explaining human resources policies, procedures, laws, and standards to new and existing employees. Ensuring new hire paperwork is completed and processed.
 
