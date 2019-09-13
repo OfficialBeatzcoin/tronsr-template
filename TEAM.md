@@ -13,7 +13,6 @@ Oversees day-to-day operations within VibraVid Inc. and BeatzCoin; ensures all o
 
 Plans, develops, implements and monitors the marketing and communications strategy. Responsible for conducting and deligating market research, pricing, and advertizing. Responsible for all matters of public relations. 
 - [x] Write Press Releases
-- [x] Manages Company Instagram
 - [x] Oversees All Social Media Accounts
 - [x] Manages and Maintains Multi Media Content
 - [x] Researches and seaks out strategic partnerships in cross marketing. 
@@ -21,10 +20,6 @@ Plans, develops, implements and monitors the marketing and communications strate
 ## Technology Director - Neil Gordon
 
 Plans, organizes and executes all information technology functions within VibraVid Inc. and BeatzCoin. Develops new technical solutions and conducts maintenance of existing applications to meet customer requirements. 
-
-## Human Resources Manager - Mike Patraw
-
-Preparing or updating employment records related to hiring, transferring, promoting, and terminating. Explaining human resources policies, procedures, laws, and standards to new and existing employees. Ensuring new hire paperwork is completed and processed.
 
 ## Lead DevOps Engineer - Tyler Engelhardt
 
@@ -38,6 +33,10 @@ Experienced in building websites and maintaining the servers for VibraVid Inc. a
 Responsible for the strategic formalization of artist relations while developing and enhancing existing relationships. 
 - [x] Acts as the main contact/liaison between VibraVid Inc. and artists in their respective industries.
 - [x] Works with relative enterprises to further fortify the VibraVid brand and presence. 
+
+## Human Resources Manager - Mike Patraw
+
+Preparing or updating employment records related to hiring, transferring, promoting, and terminating. Explaining human resources policies, procedures, laws, and standards to new and existing employees. Ensuring new hire paperwork is completed and processed.
 
 ## Project Manager - Steve Lourenco
 
