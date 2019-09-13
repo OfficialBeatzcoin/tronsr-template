@@ -4,7 +4,7 @@ Website: https://www.beatzcoin.io
 
 Artist Accelerator: https://www.beatzcoin.io/artists
 
-Whitepaper: https://www.beatzcoin.io/downloads/Whitepaper.pdf
+Whitepaper: https://www.beatzcoin.io/downloads/en/Whitepaper.pdf?v=1
 
 Twitter: https://twitter.com/BeatzCoin
 
@@ -22,4 +22,6 @@ Medium: https://link.medium.com/Q7efQptpHU
 
 Bitcointalk: https://bitcointalk.org/index.php?topic=4888237.0
 
-Instagram: https://www.instagram.com/beatzcoin_official/?hl=el
+Instagram: https://www.instagram.com/Beatzcoinofficial/
+
+Telegram: https://t.me/beatzcoin1002413
