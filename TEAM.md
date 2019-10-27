@@ -34,10 +34,6 @@ Responsible for the strategic formalization of artist relations while developing
 - [x] Acts as the main contact/liaison between VibraVid Inc. and artists in their respective industries.
 - [x] Works with relative enterprises to further fortify the VibraVid brand and presence. 
 
-## Human Resources Manager - Mike Patraw
-
-Preparing or updating employment records related to hiring, transferring, promoting, and terminating. Explaining human resources policies, procedures, laws, and standards to new and existing employees. Ensuring new hire paperwork is completed and processed.
-
 ## Project Manager - Steve Lourenco
 
 Manages key client projects. Responsibilities include the coordination and completion of projects on time within budget and within scope. Oversee all aspects of projects. Set deadlines, assign responsibilities and monitor and summarize progress of project. Prepare reports for upper management regarding status of project.
