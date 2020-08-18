@@ -9,29 +9,10 @@ Oversees day-to-day operations within VibraVid Inc. and BeatzCoin; ensures all o
 - [x] Oversees partnerships and aquisitions.
 - [x] Senior advisor to the CEO
 
-## Chief Communications Officer - Misha Lederman
+## Chief Business Development Officer - Alex Guerra
 
-Plans, develops, implements and monitors the marketing and communications strategy. Responsible for conducting and deligating market research, pricing, and advertizing. Responsible for all matters of public relations. 
-- [x] Write Press Releases
-- [x] Oversees All Social Media Accounts
-- [x] Manages and Maintains Multi Media Content
-- [x] Researches and seaks out strategic partnerships in cross marketing. 
-
-## Technology Director - Neil Gordon
-
-Plans, organizes and executes all information technology functions within VibraVid Inc. and BeatzCoin. Develops new technical solutions and conducts maintenance of existing applications to meet customer requirements. 
-
-## Lead DevOps Engineer - Tyler Engelhardt
-
-Experienced in building websites and maintaining the servers for VibraVid Inc. and BeatzCoin. 
-- [x] PHP, jQuery/AJAX, HTML5, CSS3, Bootstrap, MySQLi/PDO, React Native and NodeJS
-- [x] Linux/AWS with EC2, elastic IPs, databases(RDS), load balancers, VPCs, certificate manager (ACM), and Route 53 usage.
-- [x] Manages mail server on dedicated EC2 instance. 
-
-## Director of Artist Relations - Alex Guerra
-
-Responsible for the strategic formalization of artist relations while developing and enhancing existing relationships. 
-- [x] Acts as the main contact/liaison between VibraVid Inc. and artists in their respective industries.
+Responsible for all aspects of company growth and development, while developing and enhancing existing and potential B2B relationships. 
+- [x] Acts as the main contact/liaison between VibraVid Inc. and businesses in their respective industries.
 - [x] Works with relative enterprises to further fortify the VibraVid brand and presence. 
 
 ## Project Manager - Steve Lourenco
