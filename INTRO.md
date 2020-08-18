@@ -1,10 +1,10 @@
-BeatzCoin is the driving force behind the technologically advanced VibraVid Platform which is here to change the way consumers interact with digital content, while increasing the revenue potential of content creators.
+BeatzCoin is the native cryptocurrency token of our innovative social music and video sharing website, VibraVid. With VibraVid, everyone has a chance to earn. Uploaders can set a price for their content, or easily market their uploads buy placing bounties on their content. 
 
-Website: https://www.beatzcoin.io
+Token Information Website: https://www.beatzcoin.io
 
-Artist Accelerator: https://www.beatzcoin.io/artists
+VibraVid Media Sharing Platform: https://vibravid.io/
 
-Whitepaper: https://www.beatzcoin.io/downloads/en/Whitepaper.pdf?v=1
+Whitepaper: https://b98b3f64-95c8-4762-b13b-b8cb80ab291a.filesusr.com/ugd/bfca3f_d84958d51e5943d7b5693fbd9d79dde3.pdf
 
 Twitter: https://twitter.com/BeatzCoin
 
@@ -15,8 +15,6 @@ LinkedIn: https://www.linkedin.com/company/vibravid/
 YouTube: https://www.youtube.com/channel/UC_b2bfwk1n7E31CKrrvh_6w
 
 Reddit: https://www.reddit.com/r/BeatzCoin/
-
-Podcasts: https://www.spreaker.com/beatzcoin
 
 Medium: https://link.medium.com/Q7efQptpHU
 
