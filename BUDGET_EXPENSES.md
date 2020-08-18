@@ -1,7 +1,3 @@
-Rewards are distributed to voters every voting cycle.
+When ranked as an SR (top 27), rewards are distributed to voters every voting cycle.
 
-Our current reward payout is:
-
-300% BeatzCoin (BTZC) Token ID: 1002413
-
-Any daily income after payout is used for staff, server costs, and continuous VibraVid development.
+Any daily income after payout is used for staff, server costs, community plan, and continuous VibraVid development.
