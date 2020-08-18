@@ -1,4 +1,4 @@
-BeatzCoin is the native cryptocurrency token of our innovative social music and video sharing website, VibraVid. With VibraVid, everyone has a chance to earn. Uploaders can set a price for their content, or easily market their uploads buy placing bounties on their content. 
+BeatzCoin is the native multi-chain cryptocurrency token of our innovative social music and video sharing website, VibraVid. With VibraVid, everyone has a chance to earn. Uploaders can set a price for their content, or easily market their uploads buy placing bounties on their content. 
 
 Token Information Website: https://www.beatzcoin.io
 
@@ -23,3 +23,21 @@ Bitcointalk: https://bitcointalk.org/index.php?topic=4888237.0
 Instagram: https://www.instagram.com/Beatzcoinofficial/
 
 Telegram: https://t.me/beatzcoin1002413
+
+CoinMarketCap: https://coinmarketcap.com/currencies/beatzcoin/
+
+CoinGecko: https://www.coingecko.com/en/coins/beatzcoin
+
+BeatzCoin can be traded at:
+
+https://poloniex.org/exchange?id=87
+
+https://www.probit.com/app/exchange/BTZC-BTC
+
+https://nolex.org/main/BTZCTRX.html
+
+https://trontrade.io/exchange/40
+
+https://mercatox.com/exchange/BTZC/ETH
+
+https://mercatox.com/exchange/BTZC/USDC
